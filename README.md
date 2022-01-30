@@ -1,4 +1,4 @@
-# Tic-Rac-Toe
+# Tic-Tac-Toe
 
 # Built a two player Tic Tac Toe game.
 # Used HTML and CSS to design basic interface layout of the game and JavaScript to implement game's algorithm to decide winner.
